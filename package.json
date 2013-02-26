@@ -1,0 +1,19 @@
+{
+    "name": "twimo",
+    "version": "0.0.0",
+    "private": true,
+
+    "engines": {
+        "node": "0.8.x"
+    },
+    "dependencies": {
+        "colors": "0.6.x",
+        "commander": "1.1.x",
+        "mongodb": "1.2.x"
+    },
+
+    "main": "./index",
+    "bin" : {
+        "twimo" : "./index.js"
+    }
+}
