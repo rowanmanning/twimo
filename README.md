@@ -4,6 +4,8 @@ Twimo
 
 Quickly and easily import your [Twitter archive][twarchive-post] into MongoDB. Why? Because data.
 
+**:bangbang: NOTE: This project is no longer being maintained. If you're interested in taking over maintenance of this repo, please contact me.**
+
 
 Requirements
 ------------
